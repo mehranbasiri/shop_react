@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  width: 100%;
+  @media (max-width: 380px) {
+  }
+}
+@import "./navbar.scss";
+@import "./slider.scss";
+@import "./category.scss";
+@import "./products.scss";
+@import "./newsLetter.scss";
+@import "./footer.scss";
+@import "./main-page.scss";
+@import "./product-list.scss";
+
+@import "./cart.scss";
+@import "../pages/Login/loginPage.scss";
